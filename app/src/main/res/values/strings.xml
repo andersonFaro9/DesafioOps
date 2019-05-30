@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Movies</string>
+    <string name="ops">
+        Não consegui entregar o desafio como vocês querem mas gostaria de uma oportunidade de trabalhar nesta empresa que é a Cubos.
+        Confesso que preciso aprender sobre padrões de projeto e consumo de apis mas devo acrescentar que sou proativo, e além de ter trabalhado com Android, trabalhei com Arduino, C/C++ junto com IOT, Html, Css e um pouco de Javascript . Dos aplicativos que fiz, eu posso citar o Guiaci e o NotaCelula, neste último eu usei tecnologia Realm onde a ideia é basicamente que o usuário faça suas anotações com detalhes em sua célula evangélica e não deixar algo desorganizado
+    </string>
+</resources>
