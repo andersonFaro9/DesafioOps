@@ -12,13 +12,14 @@ Ops, como vocês estão vendo, não foi dessa vez mas mesmo assim gostaria da op
  ### Desafio seleção Cubos
 
  ### Informações do desafio :
+ 
+ Desenvolver as telas em anexo usando os seguintes padrões e tecnologias:
 
-Desenvolver as telas em 
-  https://github.com/1jGabriel/movies-db/tree/master/Prot%C3%B3tipo
-usando os seguintes padrões e tecnologias:
-- Kotlin
-- MVP (Model View Presenter) 
-- Retrofit (https://github.com/square/retrofit) para consumir uma Restful API pública (https://developers.themoviedb.org/3/getting-started/introduction)
+ Kotlin;
+ MVP (Model View Presenter);
+ Retrofit (https://github.com/square/retrofit) para consumir uma Restful API pública     (https://developers.themoviedb.org/3/getting-started/introduction).
+ 
+  
 
  ### Descrição
 
